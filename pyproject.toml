@@ -1,0 +1,7 @@
+[tool.poetry.dev-dependencies]
+black = "@latest"
+isort = "@latest"
+flake8 = "@latest"
+
+[tool.isort]
+profile = "black"
